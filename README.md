@@ -1,4 +1,7 @@
 # Berea-Sandstone-Geostatistics
+
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 Spatial analysis of 3D micro-CT data using indicator geostatistics
 # 🔬 Geostatistical Analysis of Berea Sandstone Porosity
 
