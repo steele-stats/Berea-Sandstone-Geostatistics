@@ -1,0 +1,4 @@
+gstat
+sp
+ggplot2
+reshape2
